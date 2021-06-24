@@ -1,3 +1,5 @@
+# This is the Front End/Client Side repo for Nashville Kennels. Needs to run in tandem with Back End/Server Side for actual data to show.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
