@@ -1,5 +1,5 @@
 import React, { useContext, useEffect } from "react"
-import { AnimalContext } from "../animal/AnimalProvider.js";
+import { AnimalContext } from "../animal/AnimalProvider";
 import { CustomerContext } from "./CustomerProvider";
 import "./Customers.css"
 
